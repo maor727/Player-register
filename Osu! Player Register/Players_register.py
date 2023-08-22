@@ -1,4 +1,4 @@
-from players import Players
+from Players_class import Players
 
 register_name = input("What is your name?").capitalize()
 register_country = input("Where are you from?").capitalize()
